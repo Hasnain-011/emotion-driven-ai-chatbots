@@ -59,4 +59,8 @@ The goal of this project is to demonstrate how machine learning can be effective
 
 ---
 
-## 📁 Project Structure
+## 👨‍💻 Author
+
+Hasnain
+AI & Machine Learning Enthusiast
+Passionate about Data Science, NLP, and Intelligent Systems
